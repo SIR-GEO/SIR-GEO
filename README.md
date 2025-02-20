@@ -1,4 +1,4 @@
-### Conceptual reality transcends subtle truth 
+## Conceptual reality transcends subtle truth 
 
 <!---
 SIR-GEO/SIR-GEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
